@@ -6,11 +6,11 @@
         "ForceSub",
         "Promoter",
         "Telegram Bot",
-        "JE Bots"
+        "UB Bots"
     ],
-    "website": "https://infinityje.com",
-    "repository": "https://github.com/ImJanindu/ForceSubBot",
-    "success_url": "https://t.me/Infinity_BOTs",
+    "website": "https://uvindubro.blogspot.com/",
+    "repository": "https://github.com/UvinduBro/ForceSub-Bot",
+    "success_url": "https://t.me/UvinduBr",
     "env": {
         "TG_BOT_TOKEN": {
             "description": "You Telegram Bot Token from @BotFather",
